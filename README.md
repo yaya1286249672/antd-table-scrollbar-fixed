@@ -14,6 +14,9 @@ Start the dev server,
 $ yarn start
 ```
 
+描述：针对长表格滚动条的吸底方案
+
+
 效果预览
 <https://yaya1286249672.github.io/antd-table-scrollbar-fixed/>
 
