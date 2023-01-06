@@ -27,7 +27,7 @@
     "node_modules",
     "lib",
     "es",
-    "dist",
+    "docs",
     "typings",
     "**/__test__",
     "test",
