@@ -14,7 +14,7 @@ Start the dev server,
 $ yarn start
 ```
 
-描述：针对长表格滚动条的吸底方案
+描述：针对长表格滚动条的吸底方案（antd4.6发布的一版sticky功能之另外一个解法）
 
 
 效果预览
