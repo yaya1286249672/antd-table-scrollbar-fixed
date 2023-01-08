@@ -24,6 +24,7 @@ export default function IndexPage() {
         dataSource={data}
         scroll={{ x: 'max-content' }}
         ref={tableRef}
+        pagination={{ defaultPageSize: 50 }}
         style={{
           // width: 800,
           marginLeft: 200,
